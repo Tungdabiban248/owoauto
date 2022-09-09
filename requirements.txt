@@ -1,4 +1,1 @@
-discord
-intents
-asyncio
-colorama
+os == 2.1.4
